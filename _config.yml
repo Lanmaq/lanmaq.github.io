@@ -2,7 +2,7 @@
 title: Lanmaq's Blog
 subtitle: The body is cleaner than the soul！
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: An iOS rookie, just taking off.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://lanmaq.com"
@@ -39,8 +39,9 @@ comment:
 social:
     weibo: Lanmaq
     github: Lanmaq
-    twitter: Lanmaq
-    gplus: 107108267983477358170
+    instagram: Lanmaq
+    #twitter: Lanmaq
+    #gplus: 0
     mail: lanmaqmay66@gmail.com
 
 # Google Analytics
