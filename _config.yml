@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: Lanmaq's Blog
+subtitle: The body is cleaner than the soul！
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://www.lanmaq.com"
+url: "http://lanmaq.com"
 
 permalink: /:year/:month/:title/
 
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    #gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: Lanmaq
+    github: Lanmaq
+    twitter: Lanmaq
+    gplus: 107108267983477358170
+    mail: lanmaqmay66@gmail.com
 
 # Google Analytics
 ga:
