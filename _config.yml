@@ -5,7 +5,7 @@ subtitle: The body is cleaner than the soul！
 description: An iOS rookie, just taking off.
 # creator: <a href="http://blog.lanmaq.com">@Lanmaq</a>
 
-url: "http://blog.lanmaq.com"
+url: "https://blog.lanmaq.com"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Life, description: Link life, url: 'http://blog.lanmaq.com'}
+    - {title: Life, description: Link life, url: 'https://blog.lanmaq.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
