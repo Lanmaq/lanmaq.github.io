@@ -3,9 +3,9 @@ title: Lanmaq's Blog
 subtitle: The body is cleaner than the soul！
 # welcome_message: <a href="https://github.com/Lanmaq" target="_blank">Write Code</a>
 description: An iOS rookie, just taking off.
-# creator: <a href="http://lanmaq.com">@Lanmaq</a>
+# creator: <a href="http://blog.lanmaq.com">@Lanmaq</a>
 
-url: "http://lanmaq.com"
+url: "http://blog.lanmaq.com"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Life, description: Link life, url: 'http://www.lanmaq.com'}
+    - {title: Life, description: Link life, url: 'http://blog.lanmaq.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
